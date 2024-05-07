@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+.AboutMe{
+    margin: 100px;
+    border: 3px solid coral;
+    padding: 20px;
+}
+.Hobby img{
+    width: 300px;
+}
+.AboutMe img{
+    width: 300px;
+}
+
+.Work{
+    
+        margin: 10px 20px;
+        border: double yellow;
+        padding: 30px;
+    
+}
+.Hobby{
+    margin: 100px 200px ;
+    border: double blue;
+    padding: 30px ;
+
+}
+.Dream{
+    margin: 40px 500px;
+    border: double red;
+    padding: 10px;
+}
