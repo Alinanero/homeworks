@@ -1,0 +1,26 @@
+Назначение приложения.
+Обеспечение надежной и удобной платформы для онлайн заказа и доставки пиццы.Создание автоматизации и аналитики процессов на всех этапах работы приложения и ведения бизнесса.
+
+Данное приложение будет содержать в себе таких пользователей:
+
+Приложение Пицца онлайн мобильное решение удовлетворения потребностей и развития бизнесса. 
+
+Как для клиента, так и для владельца бизнесса и приложения. В данном сервисе удобно и быстро можно оформить заказ, получить доступ к полному ассортименту, внести дополнения к заказу, сохранять в избранных выбранные позиции. Безопасность данных и оплаты. Отслеживать доставку.
+Для бизнесс планирования удобные и надежные сервисы автоматизации процессов, безопасность доступов и контроля. Сбор и обработка данных для аналитики.
+
+Purpose of the application.
+Providing a reliable and convenient platform for online ordering and delivery of pizza. Creating automation and analytics of processes at all stages of the application and business.
+
+This application will contain the following users: user, admin
+
+The Pizza online application is a mobile solution for meeting the needs and development of business. 
+
+Both for the client and for the owner of the business and application. 
+In this service, you can conveniently and quickly place an order, gain access to the full range, make additions to the order, and save selected items to your favorites. Data and payment security. Track delivery.
+For business planning, convenient and reliable process automation services, security of access and control. Collection and processing of data for analytics.
+
+для rabbitMQ
+1.docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.13-management
+В командной строке
+2.http://localhost:15672/
+как гость
